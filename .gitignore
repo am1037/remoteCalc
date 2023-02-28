@@ -48,3 +48,5 @@ obj/x64/Debug/examole.tlog/link.write.2u.tlog
 obj/x64/Debug/examole.tlog/rc.command.1.tlog
 obj/x64/Debug/examole.tlog/rc.read.1.tlog
 obj/x64/Debug/examole.tlog/rc.write.1.tlog
+.vs/
+obj/

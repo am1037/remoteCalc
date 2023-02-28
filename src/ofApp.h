@@ -6,6 +6,9 @@ class ofApp : public ofBaseApp {
 
 public:
 
+	int loc_X = mouseX;
+	int loc_Y = mouseY;
+
 	void setup();
 	void update();
 	void draw();
