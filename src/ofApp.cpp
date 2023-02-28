@@ -90,7 +90,6 @@ void ofApp::mouseMoved(int x, int y) {
 //--------------------------------------------------------------
 void ofApp::mouseDragged(int x, int y, int button) {
 	if (button == 0) {
-		std::cout << button << endl;
 		loc_X = mouseX;
 		loc_Y = mouseY;
 	}
@@ -99,7 +98,6 @@ void ofApp::mouseDragged(int x, int y, int button) {
 //--------------------------------------------------------------
 void ofApp::mousePressed(int x, int y, int button) {
 	if (button == 2) {
-		std::cout << button << endl;
 		loc_X = mouseX;
 		loc_Y = mouseY;
 	}
